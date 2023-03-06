@@ -1,4 +1,4 @@
-#🚀 Projeto Sem Nome .NET 🚀
+`#🚀 Projeto Sem Nome .NET 🚀`
 
 Este projeto tem como objetivo implementar uma API multiplataforma utilizando .NET Core 3.1 e C# como linguagem de programação. A arquitetura em camadas com DDD será utilizada para modelagem, o banco de dados será o MySQL e o ORM a ser utilizado será o Entity Framework Core. Para mapeamento entre DTO e modelos do domínio, será utilizado o AutoMapper.
 
